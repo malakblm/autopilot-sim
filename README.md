@@ -2,6 +2,8 @@
 
 A browser-based 3D simulator of a self-driving car on a three-lane road. The car reads virtual sensors, follows slower traffic, overtakes when it is safe, and brakes in an emergency. You can pause, drag back through the last 90 seconds of driving, and resume from any moment, so time becomes the fourth dimension.
 
+**Live demo: https://malakblm.github.io/autopilot-sim/**
+
 ![Autopilot Sim screenshot](docs/screenshot.png)
 
 ## What it does
@@ -59,3 +61,4 @@ Controls: **P** toggles the autopilot, **arrow keys** steer and change speed, **
 ## Built with
 
 Three.js, JavaScript, Vite, and Node's built-in test runner.
+
